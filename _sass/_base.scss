@@ -70,6 +70,7 @@ p {
     .navbar-brand {
       font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
       font-weight: 200;
+      font-size: 24px;
       letter-spacing: 1px;
       color: $theme-primary;
       &:hover, &:focus {
@@ -110,23 +111,31 @@ p {
   }
 }
 
+.navbar-brand-fix,
+.navbar-nav-fix li a
+{
+  line-height:30px !important;
+  vertical-align:middle !important;
+  padding-top:20px !important;
+}
+
 @media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
     border-color: transparent;
     .navbar-header .navbar-brand {
-      color: rgba(255, 255, 255, 0.7);
+      color: black; //rgba(255, 255, 255, 0.7);
       &:hover, &:focus {
-        color: white;
+        color: black;
       }
     }
     .nav > li > a {
-      color: rgba(255, 255, 255, 0.7);
+      color: black; // rgba(255, 255, 255, 0.7);
       &:focus {
-        color: rgba(255, 255, 255, 0.7);
+        color: black; // rgba(255, 255, 255, 0.7);
       }
       &:hover, &:focus:hover {
-        color: white;
+        color: black; // white;
       }
     }
     &.affix {
@@ -156,13 +165,16 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/bg-pattern.png"), $head-primary;
+  // background: url("../img/bg-pattern.png"), $head-primary;
+  background: $head-primary;
   /* fallback for old browsers */
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+  // background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+  background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, $head-primary, $head-secondary);
+  // background: url("../img/bg-pattern.png"), linear-gradient(to left, $head-primary, $head-secondary);
+  background: linear-gradient(to left, $head-primary, $head-secondary);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  color: white;
+  color: black; // white;
   .header-content {
     text-align: center;
     padding: 150px 0 50px;
