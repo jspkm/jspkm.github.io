@@ -1,10 +1,10 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+title: 콜라보마켓 | Kollabo Market
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: 우리가 만드는 커뮤니티 마켓
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://jekynewage.github.io" # the base hostname & protocol for your site
+url: "https://kollabo.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
@@ -23,8 +23,6 @@ social:
     url: https://facebook.com/lantoniotrento
   - title: google-plus
     url: https://plus.google.com/+AntoniotrentoIt
-  #- title: github
-  #  url: http://github.com/jekyll
 
 # Build settings
 markdown: kramdown

@@ -72,26 +72,26 @@ header .device-container { max-width: 300px; margin: 0 auto 100px; }
 header .device-container .screen img { border-radius: 3px; }
 
 @media (min-width: 768px) { header { min-height: 100%; }
-  header .header-content { text-align: left; padding: 0; height: 100vh; }
+  header .header-content { text-align: left; padding: 0 100px 0 0; height: 100vh; }
   header .header-content .header-content-inner { max-width: none; margin: 0; position: absolute; top: 50%; transform: translateY(-50%); }
   header .header-content .header-content-inner h1 { font-size: 35px; }
   header .device-container { max-width: none; max-height: calc(0vh); margin: 100px auto 0; } }
 
-@media (min-width: 992px) { header .header-content .header-content-inner h1 { font-size: 50px; } }
+@media (min-width: 992px) { header .header-content .header-content-inner h1 { font-size: 40px; } }
 
 section { padding: 100px 0; }
 
-section h2 { font-size: 50px; }
+section h2 { font-size: 35px; }
 
-section.download { padding: 150px 0; position: relative; }
+section.download { padding: 200px 0 0 0; position: relative; }
 
-section.download h2 { margin-top: 0; font-size: 50px; }
+section.download h2 { margin-top: 0; font-size: 35px; }
 
 section.download .badges .badge-link { display: block; margin-bottom: 25px; }
 
 section.download .badges .badge-link:last-child { margin-bottom: 0; }
 
-section.download .badges .badge-link img { height: 60px; }
+section.download .badges .badge-link img { height: 50px; }
 
 section.features .section-heading { margin-bottom: 100px; }
 
