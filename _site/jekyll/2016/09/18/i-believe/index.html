@@ -35,6 +35,8 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     
+    <script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+
     <!-- Google ADS mobile block -->
     
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -183,48 +185,6 @@
 <hr>
 
 
-<!-- <article>
-  <div id="disqus" class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-      <h2 class="section-heading">Leave a comment! We <i style="color:red"class="fa fa-heart"></i> it!</h2>
-
-      <script id="dsq-count-scr" src="//jeky-new-age.disqus.com/count.js" async></script>
-
-
-      <div id="disqus_thread"></div>
-      <script>
-
-      /**
-      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-      /*
-      var disqus_config = function () {
-      this.page.url = ;  // Replace PAGE_URL with your page's canonical URL variable
-      this.page.identifier = ;; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    /*
-      (function() { // DON'T EDIT BELOW THIS LINE
-      var d = document, s = d.createElement('script');
-      s.src = '//jeky-new-age.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-      })();
-      */
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-    </div>
-  </div>
-</div>
-</article>
-
-<hr> -->
-
-
-
 
 
   <footer>
@@ -269,6 +229,18 @@
 
 <!-- Theme JavaScript -->
 <script src="/js/new-age.min.js"></script>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    // // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('578266a59f2a8d5d3e68d4f61d3437f3');
+    // // 카카오링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
+    Kakao.Link.createScrapButton({
+      container: '#kakao-link-btn',
+      requestUrl: 'https://developers.kakao.com'
+    });
+  //]]>
+</script>
 
 
 <script type="text/javascript">

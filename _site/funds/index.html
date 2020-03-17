@@ -35,6 +35,8 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     
+    <script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+
     <!-- Google ADS mobile block -->
     
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -476,6 +478,18 @@
 
 <!-- Theme JavaScript -->
 <script src="/js/new-age.min.js"></script>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    // // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('578266a59f2a8d5d3e68d4f61d3437f3');
+    // // 카카오링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
+    Kakao.Link.createScrapButton({
+      container: '#kakao-link-btn',
+      requestUrl: 'https://developers.kakao.com'
+    });
+  //]]>
+</script>
 
 
 <script type="text/javascript">
