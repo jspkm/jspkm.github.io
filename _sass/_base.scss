@@ -188,8 +188,9 @@ header {
       margin: 0 auto;
       h1 {
         margin-top: 0;
-        margin-bottom: 30px;
-        font-size: 30px;
+        font-size: 35px;
+        font-weight: 900;
+        line-height: 1.5em;
       }
       .list-badges {
         margin-bottom: 25px;
@@ -223,8 +224,10 @@ header {
         top: 50%;
         transform: translateY(-50%);
         h1 {
-          font-size: 35px;
-        }
+          font-size: 50px;
+          font-weight: 900;
+          line-height: 1.5em;
+          padding-left: 30px;        }
       }
     }
     .device-container {
@@ -237,8 +240,12 @@ header {
 
 @media (min-width: 992px) {
   header .header-content .header-content-inner h1 {
-    font-size: 40px;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 1.5em;
+    padding-left: 30px;
   }
+
 }
 
 section {
@@ -247,7 +254,7 @@ section {
     font-size: 35px;
   }
   &.download {
-    padding: 200px 0 0 0;
+    padding: 100px 0 0 0;
     position: relative;
     h2 {
       margin-top: 0;
