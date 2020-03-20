@@ -40,7 +40,9 @@ p { font-size: 18px; line-height: 1.5; margin-bottom: 20px; }
 
 .navbar-default .nav > li.active > a:hover, .navbar-default .nav > li.active > a:focus:hover { background-color: transparent; }
 
-.navbar-brand-fix, .navbar-nav-fix li a { line-height: 30px !important; vertical-align: middle !important; padding-top: 20px !important; }
+.navbar-brand { padding: 8px 0 0 15px; }
+
+.navbar-brand-fix, .navbar-nav-fix li a { line-height: 30px !important; vertical-align: middle !important; }
 
 @media (min-width: 768px) { .navbar-default { background-color: transparent; border-color: transparent; }
   .navbar-default .navbar-header .navbar-brand { color: black; }
@@ -91,7 +93,7 @@ section.download .badges .badge-link { display: block; margin-bottom: 25px; }
 
 section.download .badges .badge-link:last-child { margin-bottom: 0; }
 
-section.download .badges .badge-link img { height: 50px; }
+section.download .badges .badge-link img { height: 45px; }
 
 section.features .section-heading { margin-bottom: 100px; }
 
