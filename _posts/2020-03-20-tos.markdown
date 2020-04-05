@@ -63,8 +63,6 @@ Kollabo may, in its sole discretion and without liability to you, modify, discon
 
 When accessing or using the Kollabo Service, you agree that you will not violate any law, contract, intellectual property or other third-party right or commit a tort. Without limiting the generality of the foregoing, you agree that you will not do, and will not permit any third party to do, any of the following:
 
-
-
 *   Engage in any unauthorized use of the Kollabo Service (including, without limitation, political campaigning, advertising, or marketing);
 *   Transmit or otherwise make available any content that: (1) you do not have the right to provide or transmit using the Kollabo Service, (2) may expose Kollabo or its affiliates, licensors, or users to any harm or liability, or (3) is harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, unlawful, untrue, or otherwise objectionable;
 *   Upload to, transmit, distribute, store, create, or otherwise sell or offer for sale anything that violates our Prohibited Items Guidelines.
@@ -101,8 +99,6 @@ If you violate any of the foregoing, Kollabo reserves the right to suspend or te
 
 In the course of using the Kollabo Service, you may transmit or otherwise make available certain content, including information about yourself, content, messages, materials, data, information, text, photos, graphics, code or other items or materials (“User Content”) through interactive areas or services, such as posting items for sale, making an offer, private messaging, or other areas or services. User Content may be publicly viewable in some instances. Kollabo reserves the right, but does not have the obligation, to remove, screen or edit any User Content posted, transmitted, or stored on the Kollabo Service at any time and for any reason without notice. You will not (and will not allow or authorize any third-party to) post, upload to, transmit, distribute, store, create, solicit, disclose, or otherwise, publish through the Kollabo Service any of the following:
 
-
-
 *   User Content that is, in Kollabo’s judgment, disrespectful or may expose Kollabo, Users or others to harm or liability;
 *   User Content that may infringe the patent, trademark, trade secret, copyright, intellectual, privacy or proprietary right of any party;
 *   Private information of any third parties, including addresses, phone numbers and payment card information;
@@ -133,7 +129,7 @@ Any comments or materials sent to us, including, but not limited to, ideas, ques
 
 **B. Copyright Complaints.** If you believe that anything on the Kollabo Service infringes upon any copyright that you own or control, you may file a notification with the email address as set forth below:
 
-**hello@kollabo.io**
+**legal@kollabo.io**
 
 Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. If you knowingly misrepresent in your notification that the material or activity is infringing, you may be liable for any damages, including costs and attorneys’ fees, incurred by Kollabo or the alleged infringer as the result of Kollabo’s reliance upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
 
@@ -147,7 +143,7 @@ Except as otherwise provided, subject to your compliance with all of the terms a
 
 #### **14. Trademarks**
 
-Kollabo, Kollabo.io, and other Kollabo graphics, logos, page headers, buttons, icons, scripts, and service names  may not be copied, imitated, or used, in whole or in part, without Kollabo’s prior written consent. You will not use any trademark, product or service name of Kollabo without our prior written permission, including without limitation any metatags or other “hidden text” utilizing any trademark, product of service name of Kollabo. 
+Kollabo, kollabo.io, and other Kollabo graphics, logos, page headers, buttons, icons, scripts, and service names  may not be copied, imitated, or used, in whole or in part, without Kollabo’s prior written consent. You will not use any trademark, product or service name of Kollabo without our prior written permission, including without limitation any metatags or other “hidden text” utilizing any trademark, product of service name of Kollabo. 
 
 
 #### **15. Suspension; Termination.**
@@ -170,10 +166,7 @@ Some jurisdictions do not allow the disclaimer of implied terms in contracts wit
 
 #### **17. Assumption of Risk**
 
-A. YOU ACKNOWLEDGE AND AGREE THAT THERE ARE RISKS ASSOCIATED WITH UTILIZING AN INTERNET-BASED MARKETPLACE AND INTERACTING WITH OTHER USERS IN PERSON. WE DO NOT INVESTIGATE OR VERIFY ANY USER’S REPUTATION, CONDUCT, MORALITY, CRIMINAL BACKGROUND, OR ANY INFORMATION USERS MAY SUBMIT TO THE SERVICES. YOU ARE SOLELY RESPONSIBLE FOR TAKING ALL NECESSARY PRECAUTIONS WHEN INTERACTING WITH OTHER USERS, PARTICULARLY WHEN MEETING A STRANGER IN PERSON FOR THE FIRST TIME. IT IS POSSIBLE THAT OTHER USERS MAY ATTEMPT TO PHYSICALLY HARM OR DEFRAUD YOU OR OBTAIN INFORMATION FROM YOU FOR FRAUDULENT PURPOSES. YOU ARE SOLELY RESPONSIBLE FOR, AND ASSUME ALL RISKS RELATED TO, SELLING AND BUYING THROUGH Kollabo’s Services (INCLUDING ALL ONLINE AND OFFLINE INTERACTIONS WITH OTHER USERS).
-
-B. **COMMUNITY MEETUP SPOTS.** COMMUNITY MEETUP SPOTS ARE LOCATIONS IN WHICH A THIRD PARTY (SUCH AS A POLICE DEPARTMENT OR LOCAL STORE) HAS AGREED TO POST A COMMUNITY MEETUP SPOT SIGN. WE ENCOURAGE THIRD PARTIES TO PLACE COMMUNITY MEETUP SPOTS IN WELL-LIT LOCATIONS, WITH SURVEILLANCE AND IN GENERALLY WELL-TRAFFICKED AREAS; HOWEVER, Kollabo DOES NOT INDEPENDENTLY VERIFY THE CONDITIONS AT ANY COMMUNITY MEETUP SPOT, DOES NOT MONITOR COMMUNITY MEETUP SPOTS AND DOES NOT WARRANTY THEIR SAFETY OR CONDITION. YOUR USAGE OF COMMUNITY MEETUP SPOTS, AND ANY DISPUTE ARISING OUT OF THAT USAGE, INCLUDING AGAINST ANY THIRD PARTY POSTING A COMMUNITY MEETUP SPOT SIGN, REMAINS SUBJECT TO THE EXPRESS PROVISIONS IN SECTIONS 16-22 OF THESE TERMS OF SERVICE.
-
+YOU ACKNOWLEDGE AND AGREE THAT THERE ARE RISKS ASSOCIATED WITH UTILIZING AN INTERNET-BASED MARKETPLACE AND INTERACTING WITH OTHER USERS IN PERSON. WE DO NOT INVESTIGATE OR VERIFY ANY USER’S REPUTATION, CONDUCT, MORALITY, CRIMINAL BACKGROUND, OR ANY INFORMATION USERS MAY SUBMIT TO THE SERVICES. YOU ARE SOLELY RESPONSIBLE FOR TAKING ALL NECESSARY PRECAUTIONS WHEN INTERACTING WITH OTHER USERS, PARTICULARLY WHEN MEETING A STRANGER IN PERSON FOR THE FIRST TIME. IT IS POSSIBLE THAT OTHER USERS MAY ATTEMPT TO PHYSICALLY HARM OR DEFRAUD YOU OR OBTAIN INFORMATION FROM YOU FOR FRAUDULENT PURPOSES. YOU ARE SOLELY RESPONSIBLE FOR, AND ASSUME ALL RISKS RELATED TO, SELLING AND BUYING THROUGH Kollabo’s Services (INCLUDING ALL ONLINE AND OFFLINE INTERACTIONS WITH OTHER USERS).
 
 #### **18. Limitation of Liability**
 
@@ -201,7 +194,7 @@ PLEASE READ THE FOLLOWING SECTION CAREFULLY BECAUSE IT REQUIRES YOU TO SUBMIT TO
 
 **D. Notice; Informal Dispute Resolution.** You and Kollabo agree that each party will notify the other party in writing of any arbitrable or small claims Dispute within thirty (30) days of the date it arises, so that the parties can attempt in good faith to resolve the Dispute informally. Notice to Kollabo shall be sent by an email to legal@kollabo.io. Your notice must include (1) your name, postal address, telephone number, the email address you use or used for your Account, and, if different, an email address at which you can be contacted, (2) a description in reasonable detail of the nature or basis of the Dispute, and (3) the specific relief that you are seeking. Our notice to you will be sent to the email address you used to register for your Account, and will include (a) our name, postal address, telephone number and an email address at which we can be contacted with respect to the Dispute, (b) a description in reasonable detail of the nature or basis of the Dispute, and (c) the specific relief that we are seeking. If you and Kollabo cannot agree how to resolve the Dispute within thirty (30) days after the date notice is received by the applicable party, then either you or Kollabo may, as appropriate and in accordance with this Section 20, commence an arbitration proceeding, or to the extent specifically provided for in section 20(A), file a claim in court.
 
-**E. Process.** Except for Disputes arising out of or related to a violation of Section 7 or Disputes in which either party seeks to bring an individual action in small claims court or seeks injunctive or other equitable relief for the alleged unlawful use of intellectual property, including without limitation, copyrights, trademarks, trade names, logos, trade secrets or patents, you and Kollabo agree that any Dispute must be commenced or filed by you or Kollabo within one (1) year of the date the Dispute arose, otherwise the underlying claim is permanently barred (which means that you and Kollabo will no longer have the right to assert such claim regarding the Dispute). You and Kollabo agree that (1) any arbitration will occur in King County, Washington, (2) arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of the Judicial Arbitration and mediation Services (“JAMS”), which are hereby incorporated by reference, and (3) that the state or federal courts of the State of Washington and the United States, respectively, sitting in King County, Washington have exclusive jurisdiction over any appeals and the enforcement of an arbitration award. You may also litigate a Dispute in the small claims court located in the county of your billing address if the Dispute meets the requirements to be heard in small claims court.
+**E. Process.** Except for Disputes arising out of or related to a violation of Section 7 or Disputes in which either party seeks to bring an individual action in small claims court or seeks injunctive or other equitable relief for the alleged unlawful use of intellectual property, including without limitation, copyrights, trademarks, trade names, logos, trade secrets or patents, you and Kollabo agree that any Dispute must be commenced or filed by you or Kollabo within one (1) year of the date the Dispute arose, otherwise the underlying claim is permanently barred (which means that you and Kollabo will no longer have the right to assert such claim regarding the Dispute). You and Kollabo agree that (1) any arbitration will occur in Santa Clara County, California, (2) arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of the Judicial Arbitration and mediation Services (“JAMS”), which are hereby incorporated by reference, and (3) that the state or federal courts of the State of California and the United States, respectively, sitting in Clara County County, California have exclusive jurisdiction over any appeals and the enforcement of an arbitration award. You may also litigate a Dispute in the small claims court located in the county of your billing address if the Dispute meets the requirements to be heard in small claims court.
 
 **F. Authority of the Arbitrator.** As limited by the FAA, these Terms and the applicable JAMS rules, the arbitrator will have (1) the exclusive authority and jurisdiction to make all procedural and substantive decisions regarding a Dispute, including the determination of whether a Dispute is arbitrable, and (2) the authority to grant any remedy that would otherwise be available in court; provided, however, that the arbitrator does not have the authority to conduct a class arbitration or a representative action, which is prohibited by these Terms. The arbitrator may only conduct an individual arbitration and may not consolidate more than one individual’s claims, preside over any type of class or representative proceeding or preside over any proceeding involving more than one individual.
 
@@ -217,7 +210,6 @@ PLEASE READ THE FOLLOWING SECTION CAREFULLY BECAUSE IT REQUIRES YOU TO SUBMIT TO
 These Terms, your access to and use of the Kollabo Service and Materials shall be governed by and construed and enforced in accordance with the laws of the State of 
 
 California without regard to conflict of law rules or principles (whether of the State of California or any other jurisdiction) that would cause the application of the laws of any other jurisdiction. Any Dispute between the parties that is not subject to arbitration or cannot be heard in small claims court, shall be resolved in the state or federal courts of the State of California and the United States, respectively, sitting in Santa Clara County, California.
-
 
 #### **22. Miscellaneous**
 
