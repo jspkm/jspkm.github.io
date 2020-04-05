@@ -25,7 +25,7 @@ If you are a California resident, please see the “Information for California C
 
 2.2. **Device Information:** We collect information about the computer or mobile device you use to access the Kollabo Service, including the hardware model, operating system and version, unique device identifiers and mobile network information.
 
-2.3. **Location Information:** If you consent to the collection of location information from your computer or mobile device, we may collect this information when you access or use the KollaboService, or when you otherwise consent to the collection of this information. We may also use your IP address to infer an approximate geographic location for your computer or device. For more details, please see “Your Information Choices” below.
+2.3. **Location Information:** If you consent to the collection of location information from your computer or mobile device, we may collect this information when you access or use the Kollabo Service, or when you otherwise consent to the collection of this information. We may also use your IP address to infer an approximate geographic location for your computer or device. For more details, please see “Your Information Choices” below.
 
 3. **Information from Third Parties.** Kollabo may, from time to time, obtain information from other sources and combine that with information we collect through the Kollabo Service in order to enhance our ability to serve you, prevent fraudulent transactions, tailor our content to you, offer you opportunities to purchase products or services that we believe may be of interest to you, and for any other purposes described in this Privacy Policy. 
 
@@ -88,8 +88,6 @@ We collect personal information for the business and commercial purposes listed 
 
 Subject to certain limitations, the CCPA provides California residents with the right to:
 
-
-
 *   **request to know** about the personal information that we have collected about you in the 12 months preceding your request (including the categories of information collected, the source of that information, the business purpose of that collection, the categories of third parties with whom that information is shared, and the specific pieces of personal information collected about you);
 *   **request to delete** any personal information about you that we have collected;
 *   **opt-out of “sales”** of personal information to third parties, if applicable; and
@@ -97,10 +95,10 @@ Subject to certain limitations, the CCPA provides California residents with the 
 
 We do not “sell” the personal information we collect (and will not sell it in the future without providing a right to opt out).
 
-To submit a request to know or a request to delete, please send an email to hello@kollabo.io. In both cases, we will verify your request by asking you to provide information that matches information we have on file about you. You may designate another person as your authorized agent to act on your behalf with regard to CCPA requests. If you have designated an authorized agent to submit requests on your behalf, we will require proof that the person is authorized to act on your behalf and may also still ask you to verify your identity with us directly.
+To submit a request to know or a request to delete, please send an email to legal@kollabo.io. In both cases, we will verify your request by asking you to provide information that matches information we have on file about you. You may designate another person as your authorized agent to act on your behalf with regard to CCPA requests. If you have designated an authorized agent to submit requests on your behalf, we will require proof that the person is authorized to act on your behalf and may also still ask you to verify your identity with us directly.
 
 
 #### **Questions and Comments.**
 
-If you’d like to provide feedback to us about this Privacy Policy, or if you have any questions, please contact us at support@kollabo.io.
+If you’d like to provide feedback to us about this Privacy Policy, or if you have any questions, please contact us at legal@kollabo.io.
 
