@@ -1,11 +1,106 @@
 ---
 layout:     plain
-title:      "Privacy Statement"
+title:      "Privacy Policy"
 date:       2020-03-20 12:00:00
 permalink:  /privacy/
 ---
 
-<h2>Privacy Statement<h2>
+# Privacy Policy
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+LAST UPDATED: March 18, 2020
+
+This Privacy Policy explains how information about you is collected, used and disclosed by Kollabo (hereafter “Kollabo”, “our,” “we,” or “us”). This Privacy Policy applies to information we collect when you use our website, mobile applications and other online services (collectively, the “Kollabo Service”) or when you otherwise interact with us.
+
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with more prominent notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Kollabo Service to stay informed about our information practices and the ways you can help protect your privacy.
+
+If you are a California resident, please see the “Information for California Consumers” section below.
+
+#### **Collection of Information** [](#collection-of-information)
+
+1. **Information You Provide to Us.** Kollabo collects information that you provide directly to us. For example, we collect information when you register or update the details of your account, post information in order to sell any good through the Kollabo Service, communicate with other users, provide reviews or other comments, purchase any services from Kollabo, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, Kollabo account password, postal address including city, state and zip code, photographs, written descriptions of your posted goods, any bids you make on offers through the Kollabo Service, any reviews or comments you make using the Kollabo Service, all correspondence or communications with other users or with us conducted via the Kollabo Service, and any other information you choose to provide.
+
+2. **Information We Collect Automatically When You Use the Kollabo Service.** When you access or use the Kollabo Service, we automatically collect information about you, including:
+
+2.1. **Log Information:** We log information about your use of the Kollabo Service, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Kollabo Service.
+
+2.2. **Device Information:** We collect information about the computer or mobile device you use to access the Kollabo Service, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+
+2.3. **Location Information:** If you consent to the collection of location information from your computer or mobile device, we may collect this information when you access or use the KollaboService, or when you otherwise consent to the collection of this information. We may also use your IP address to infer an approximate geographic location for your computer or device. For more details, please see “Your Information Choices” below.
+
+3. **Information from Third Parties.** Kollabo may, from time to time, obtain information from other sources and combine that with information we collect through the Kollabo Service in order to enhance our ability to serve you, prevent fraudulent transactions, tailor our content to you, offer you opportunities to purchase products or services that we believe may be of interest to you, and for any other purposes described in this Privacy Policy. 
+
+
+#### **Use of Information.**
+
+5. **General Uses.** Kollabo uses information about you for various purposes, including to:
+
+5.1. Enable you to access and use the Kollabo Service, to personalize the Kollabo Service, and to optimize the type of offers presented to you when you use the Kollabo Service;
+
+5.2. Create and maintain a trusted and safer environment on the Kollabo Service, including through detection and prevention of fraud, unauthorized access, intrusion, and service interruption;
+
+5.3. Operate, protect, improve and optimize the Kollabo Service, our business, and our users’ experience;
+
+5.4. Perform analytics, conduct research, and monitor and analyze trends, usage and activities in connection with the Kollabo Service;
+
+5.5. Communicate with you about products, services, offers, promotions, rewards, and events offered by Kollabo and others, and provide advertisements that match user profiles or interests, news and information we think will be of interest to you;
+
+5.6. Send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you;
+
+5.7. Comply with our legal obligations or requests from law enforcement agencies, resolve any disputes that we may have with any of our users, and enforce our agreements with third parties;
+
+5.8. Carry out any other purpose for which the information was collected.
+
+Kollabo is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Kollabo Service or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law.
+
+
+#### **Sharing of Information.**
+
+6. **General.** We do not share information about you with third-parties such as vendors, consultants and other service providers.
+
+7. **Social Sharing Features.** The Kollabo Service may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on the Kollabo Service with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide those features.
+
+
+#### **Advertising and Analytics Services Provided by Others**
+
+8. We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Kollabo Service, links clicked and conversion information. This information may be used by Kollabo and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the Kollabo Service, and better understand your online activity. Your mobile device operating system may also include a feature that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
+
+
+#### **Security**
+
+9. Kollabo takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
+
+#### **Your Choices**
+
+10. **Account Information.** You may update, correct or remove account profile information at any time by logging in to your account. If you would like to cancel your Kollabo account entirely, please contact us, and enter your request for cancellation, but please note that we may retain certain information as required by law or for legitimate business purposes. For example, any reviews, forum postings and similar materials posted by you may continue to be publicly available on the Kollabo Service in association with your account name even after your Kollabo account is cancelled. We may also retain cached or archived copies of information about you for a certain period of time.
+
+11. **Location Information.** When you first download or launch any of our mobile applications that collect location information or first use any features that use location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications form your device.
+
+In some features, Kollabo uses mapping services from Google Maps/Google Earth, including Google Maps API(s). Your use of these services is subject to [Google's terms of service](https://www.google.com/intl/en_us/help/terms_maps.html).
+
+12. **Promotional Communications.** You may opt out of receiving promotional emails, text messages, and other communications from Kollabo by following the instructions in those emails, text messages or other communications or by logging on to your Kollabo account and going to Settings.
+
+13. **Information for California Residents.** This section provides additional disclosures required by the California Consumer Privacy Act (“CCPA”), which applies to the personal information we collect about California residents.
+
+In the preceding 12 months, we have collected the following categories of personal information: identifiers (such as name and email address); internet or other electronic network activity information (such as usage data); commercial information (such as products purchased or sold); geolocation data; inferences (such as approximate location); visual or similar information (such as photographs of yourself); and other information that relates to or is reasonably capable of being associated with you and that does not fit neatly into one of the other categories (such as personal information contained in reviews, comments and communications with us). For more details about the personal information we collect, including the categories of sources, please see the [Collection of Information] section above.
+
+We collect personal information for the business and commercial purposes listed in the Use of Information section above. We share the personal information we collect with the categories of third parties listed in the Sharing of Information section above.
+
+Subject to certain limitations, the CCPA provides California residents with the right to:
+
+
+
+*   **request to know** about the personal information that we have collected about you in the 12 months preceding your request (including the categories of information collected, the source of that information, the business purpose of that collection, the categories of third parties with whom that information is shared, and the specific pieces of personal information collected about you);
+*   **request to delete** any personal information about you that we have collected;
+*   **opt-out of “sales”** of personal information to third parties, if applicable; and
+*   **not to be discriminated against** for exercising these rights.
+
+We do not “sell” the personal information we collect (and will not sell it in the future without providing a right to opt out).
+
+To submit a request to know or a request to delete, please send an email to hello@kollabo.io. In both cases, we will verify your request by asking you to provide information that matches information we have on file about you. You may designate another person as your authorized agent to act on your behalf with regard to CCPA requests. If you have designated an authorized agent to submit requests on your behalf, we will require proof that the person is authorized to act on your behalf and may also still ask you to verify your identity with us directly.
+
+
+#### **Questions and Comments.**
+
+If you’d like to provide feedback to us about this Privacy Policy, or if you have any questions, please contact us at support@kollabo.io.
 
